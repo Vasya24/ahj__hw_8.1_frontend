@@ -5,12 +5,12 @@ body {
   #wrapper {
     background-color: #ffffff;
     box-sizing: border-box;
-    width: 40vw;
+    width: 30vw;
     height: 70vh;
     border: 3px solid black;
     border-radius: 20px;
     position: relative;
-    left: 30vw;
+    left: 33vw;
     overflow-y: scroll;
-    padding: 1%;
+    padding: 3%;
   }
