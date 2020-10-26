@@ -14,3 +14,13 @@ body {
     overflow-y: scroll;
     padding: 3%;
   }
+
+  .message {
+    border: .1px solid #7c7c7c;
+    padding-left: 1vw;
+  }
+
+  .message_img {
+    width: 1.3vw;
+    height: 5vh;
+  }
